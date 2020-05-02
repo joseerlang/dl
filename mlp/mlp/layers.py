@@ -5,7 +5,6 @@ class Layer():
     def __init__(self):
         self.params = []
         self.grads = []
-        self.updatable = False
 
     def __call__(self, x):
         return x
