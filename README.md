@@ -1,5 +1,3 @@
-# nbs
+# Learn Deep Learning
 
-Notebooks to learn about Deep Learning.
-
-- [MLP](./mlp): Learn about the Multilayer Perceptron.
+[slides](https://sensioai.github.io/dl/)
