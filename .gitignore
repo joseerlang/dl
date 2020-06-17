@@ -2,9 +2,11 @@
 __pycache__
 .DS_store
 data
+.data
 tuner
 *.h5
 *.png
 *.pth
 *.txt
 .vscode
+.vector_cache
