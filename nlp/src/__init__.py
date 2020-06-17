@@ -1,0 +1,1 @@
+from .charRNN import CharRNNModel

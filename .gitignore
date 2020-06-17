@@ -6,3 +6,4 @@ tuner
 *.h5
 *.png
 *.pth
+*.txt
