@@ -7,6 +7,7 @@ Learn Deep Learning with the following notebooks and exercises:
 - [Deep Learning Frameworks](./frameworks)
 - [Training Neural Networks](./training)
 - [Recurrent Neural Networks](./rnns)
+- [Natural Language Processing](./nlp)
 
 
 Also, check the [slides](https://sensioai.github.io/dl/).
