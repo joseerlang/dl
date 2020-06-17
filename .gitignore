@@ -7,3 +7,4 @@ tuner
 *.png
 *.pth
 *.txt
+.vscode
